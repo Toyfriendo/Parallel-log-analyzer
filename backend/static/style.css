@@ -1,0 +1,12 @@
+body {
+  background-color: #f8f9fa;
+  color: #212529;
+  font-family: 'Segoe UI', sans-serif;
+}
+h1 {
+  color: #007BFF;
+  font-weight: 700;
+}
+table {
+  background-color: white;
+}
